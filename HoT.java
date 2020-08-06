@@ -1,4 +1,4 @@
-public class Hot{
+public class HoT{
     public static void main(String args[]){
 	int head = 0;
 	int i =0;	
