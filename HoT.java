@@ -1,4 +1,4 @@
-public class Hot{
+public class HoT{
     public static void main(String args[]){
 	int head = 0;
 	int i =0;	
@@ -18,6 +18,10 @@ public class Hot{
 	   
 	}
 	System.out.println("Heads: " +head+ ", Tails: " +(3-head));
+	if(head>=2){
+	    System.out.println("You won");
+	}else System.out.println("You lost"); 
+	    
     }
 }
 		  
